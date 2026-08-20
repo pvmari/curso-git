@@ -1,0 +1,2 @@
+o que eu comprieendi da aula foi que existem tipos diferentes de git
+e como criar um repositorio remoto, como criar uma conta no github.
